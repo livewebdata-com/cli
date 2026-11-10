@@ -1,0 +1,14 @@
+{
+  "name": "Live Web Data",
+  "tagline": "How fresh is the web your AI reads? Live data, explained plainly.",
+  "domain": "livewebdata.com",
+  "bin": "livewebdata",
+  "npm": "livewebdata",
+  "org": "livewebdata-com",
+  "repo": "cli",
+  "siteUrl": "https://livewebdata.com",
+  "docsUrl": "https://livewebdata.com/docs",
+  "apiName": "Live Web Data API",
+  "apiBaseUrl": "https://livewebdata.com/api",
+  "specUrl": "https://livewebdata.com/openapi.json"
+}
