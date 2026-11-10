@@ -68,7 +68,8 @@ Requests and your key only ever go to the base URL, never to a server named in t
 ## Links
 
 - [livewebdata.com](https://livewebdata.com)
-- [Docs](https://livewebdata.com/docs)
+- [CLI docs](https://livewebdata.com/docs/cli)
+- [API docs](https://livewebdata.com/docs)
 - [API spec](https://livewebdata.com/openapi.json)
 
 ## License
