@@ -3,7 +3,7 @@
   "tagline": "How fresh is the web your AI reads? Live data, explained plainly.",
   "domain": "livewebdata.com",
   "bin": "livewebdata",
-  "npm": "livewebdata",
+  "npm": "@livewebdata-com/cli",
   "org": "livewebdata-com",
   "repo": "cli",
   "siteUrl": "https://livewebdata.com",

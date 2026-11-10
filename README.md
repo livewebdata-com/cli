@@ -8,8 +8,8 @@ It is the command line client for the [Live Web Data API](https://livewebdata.co
 ## Quick start
 
 ```bash
-npx livewebdata login                                   # paste your API key (not echoed)
-npx livewebdata fetch https://example.com -o text       # the page as Markdown
+npx @livewebdata-com/cli login                                   # paste your API key (not echoed)
+npx @livewebdata-com/cli fetch https://example.com -o text       # the page as Markdown
 ```
 
 Get a key at [livewebdata.com](https://livewebdata.com). Node.js 18 or later.
@@ -17,7 +17,7 @@ Get a key at [livewebdata.com](https://livewebdata.com). Node.js 18 or later.
 ## Install
 
 ```bash
-npm install -g livewebdata
+npm install -g @livewebdata-com/cli
 livewebdata --help
 ```
 
