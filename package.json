@@ -22,7 +22,7 @@
     "url": "git+https://github.com/livewebdata-com/cli.git"
   },
   "license": "MIT",
-  "author": "Teneo Labs Inc.",
+  "author": "livewebdata.com",
   "type": "module",
   "bin": {
     "livewebdata": "bin/cli.js"
