@@ -9,6 +9,7 @@
   "siteUrl": "https://livewebdata.com",
   "docsUrl": "https://livewebdata.com/docs",
   "apiName": "Live Web Data API",
+  "envPrefix": "LIVE_WEB_DATA",
   "apiBaseUrl": "https://livewebdata.com/api",
   "specUrl": "https://livewebdata.com/openapi.json"
 }

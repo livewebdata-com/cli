@@ -1,0 +1,31 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.livewebdata/live-web-data",
+  "title": "Live Web Data API",
+  "description": "Fetch public web pages live and get clean Markdown, text or HTML.",
+  "version": "0.1.0",
+  "websiteUrl": "https://livewebdata.com/docs/mcp",
+  "icons": [
+    {
+      "src": "https://livewebdata.com/brand/mcp-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://livewebdata.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Your Live Web Data API key as a bearer token: Bearer 1337_live_…",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
