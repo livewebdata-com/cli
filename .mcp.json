@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "live-web-data": {
+      "type": "http",
+      "url": "https://livewebdata.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${LIVE_WEB_DATA_API_KEY}"
+      }
+    }
+  }
+}

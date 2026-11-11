@@ -1,0 +1,19 @@
+{
+  "name": "livewebdata",
+  "version": "0.1.0",
+  "description": "Fetch public web pages live as clean Markdown, text or HTML through the Live Web Data API: its remote MCP server and the livewebdata CLI.",
+  "author": {
+    "name": "Live Web Data",
+    "url": "https://livewebdata.com"
+  },
+  "homepage": "https://livewebdata.com",
+  "repository": "https://github.com/livewebdata-com/cli",
+  "license": "MIT",
+  "keywords": [
+    "livewebdata",
+    "web-fetch",
+    "markdown",
+    "mcp",
+    "cli"
+  ]
+}

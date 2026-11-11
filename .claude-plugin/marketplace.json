@@ -1,0 +1,17 @@
+{
+  "name": "livewebdata",
+  "owner": {
+    "name": "Live Web Data",
+    "url": "https://livewebdata.com"
+  },
+  "metadata": {
+    "description": "The Live Web Data plugin: Live Web Data API MCP server and skill."
+  },
+  "plugins": [
+    {
+      "name": "livewebdata",
+      "source": "./",
+      "description": "Fetch public web pages live as clean Markdown, text or HTML through the Live Web Data API: its remote MCP server and the livewebdata CLI."
+    }
+  ]
+}
