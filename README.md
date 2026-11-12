@@ -61,9 +61,10 @@ claude plugin marketplace add livewebdata-com/cli && claude plugin install livew
 gemini extensions install https://github.com/livewebdata-com/cli
 ```
 
-Network and credentials: the plugin calls `https://livewebdata.com/mcp` only, and the CLI `https://livewebdata.com/api` and
-`https://livewebdata.com/openapi.json`. Both need one credential, your Live Web Data API key, read from `LIVE_WEB_DATA_API_KEY`. No hooks, no
-scripts run on install.
+Network and credentials: the plugin calls `https://livewebdata.com/mcp` only. The CLI calls `https://livewebdata.com/api` and
+`https://livewebdata.com/openapi.json`, and `https://registry.npmjs.org` (`npx` and a once-a-day update check, off with
+`LIVEWEBDATA_NO_UPDATE_NOTIFIER=1`). Both need one credential, your Live Web Data API key,
+read from `LIVE_WEB_DATA_API_KEY` or saved by `livewebdata login`. No hooks, no scripts run on install.
 
 ## The commands follow the live API
 
