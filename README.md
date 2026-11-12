@@ -1,7 +1,5 @@
 # Live Web Data CLI
 
-How fresh is the web your AI reads? Live data, explained plainly.
-
 `livewebdata` fetches live web pages as clean Markdown, text or HTML, straight from your terminal or your agent's shell.
 It is the command line client for the [Live Web Data API](https://livewebdata.com).
 

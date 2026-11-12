@@ -1,6 +1,5 @@
 {
   "name": "Live Web Data",
-  "tagline": "How fresh is the web your AI reads? Live data, explained plainly.",
   "domain": "livewebdata.com",
   "bin": "livewebdata",
   "npm": "@livewebdata-com/cli",
