@@ -1,6 +1,6 @@
 {
   "name": "@livewebdata-com/cli",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Live Web Data CLI: live web pages as clean Markdown, text or HTML in your terminal, through the Live Web Data API. The commands follow the live API spec.",
   "keywords": [
     "cli",
